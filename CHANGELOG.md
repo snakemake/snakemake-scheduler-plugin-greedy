@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/snakemake/snakemake-scheduler-plugin-greedy/compare/v0.1.3...v0.1.4) (2026-03-19)
+
+
+### Bug Fixes
+
+* remove pixi lock ([bcbfc89](https://github.com/snakemake/snakemake-scheduler-plugin-greedy/commit/bcbfc89b51ba4f47a5e93ee88fd6692d34b67428))
+
 ## [0.1.3](https://github.com/snakemake/snakemake-scheduler-plugin-greedy/compare/v0.1.2...v0.1.3) (2026-03-19)
 
 
