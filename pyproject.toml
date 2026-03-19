@@ -2,7 +2,7 @@
 dependencies = [ "snakemake>=9.17,<10", "snakemake-interface-common>=1.23.0,<2", "snakemake-interface-scheduler-plugins>=2.0.2,<3",]
 name = "snakemake-scheduler-plugin-greedy"
 requires-python = ">=3.11,<4.0"
-version = "0.1.4"
+version = "0.1.5"
 
 authors = [
   { name = "Johannes Köster", email = "johannes.koester@uni-due.de" },

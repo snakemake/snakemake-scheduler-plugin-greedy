@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/snakemake/snakemake-scheduler-plugin-greedy/compare/v0.1.4...v0.1.5) (2026-03-19)
+
+
+### Bug Fixes
+
+* CI ([ea00564](https://github.com/snakemake/snakemake-scheduler-plugin-greedy/commit/ea00564a5fca5c4d7927729626606116b928753e))
+
 ## [0.1.4](https://github.com/snakemake/snakemake-scheduler-plugin-greedy/compare/v0.1.3...v0.1.4) (2026-03-19)
 
 
