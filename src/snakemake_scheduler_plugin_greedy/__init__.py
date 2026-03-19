@@ -36,7 +36,6 @@ class SchedulerSettings(SchedulerSettingsBase):
 
 
 class Scheduler(SchedulerBase):
-
     def __post_init__(self):
         self._input_sizes = {}
 
