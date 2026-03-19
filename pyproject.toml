@@ -5,10 +5,12 @@ requires-python = ">=3.11,<4.0"
 version = "0.1.0"
 
 authors = [
-  {name = "Filipe G. Vieira"},
+  { name = "Johannes Köster", email = "johannes.koester@uni-due.de" },
+  { name = "Filipe G. Vieira"},
 ]
 maintainers = [
-  {name = "Filipe G. Vieira"},
+  { name = "Johannes Köster", email = "johannes.koester@uni-due.de" },
+  { name = "Filipe G. Vieira"},
 ]
 description = "A greedy Snakemake scheduler plugin."
 readme = "README.md"
@@ -23,7 +25,7 @@ requires = [ "hatchling",]
 dev = [ "ruff", "coverage", "pytest", "twine", "build",]
 
 [project.urls]
-Repository = "https://github.com/your/plugin"
+Repository = "https://github.com/snakemake/snakemake-scheduler-plugin-greedy"
 Documentation = "https://snakemake.github.io/snakemake-plugin-catalog/plugins/scheduler/greedy.html"
 
 [tool.pixi.workspace]
