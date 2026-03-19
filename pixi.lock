@@ -1270,8 +1270,8 @@ packages:
   requires_python: '>=3.10'
 - pypi: ./
   name: snakemake-scheduler-plugin-greedy
-  version: 0.1.1
-  sha256: 2cd5697c26d73af92f666eb472eacb03fb79dbddc5f6f8e6abd690a6d8a4f3c6
+  version: 0.1.2
+  sha256: 1f04a84c245beb33dbf2a694aac2803adf5dd6faa5975adb4fe21c0039089c71
   requires_dist:
   - snakemake>=9.17,<10
   - snakemake-interface-common>=1.23.0,<2
