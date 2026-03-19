@@ -3,9 +3,17 @@ dependencies = [ "snakemake-interface-common>=1.23.0,<2", "snakemake-interface-s
 name = "snakemake-scheduler-plugin-greedy"
 requires-python = ">=3.11,<4.0"
 version = "0.1.0"
-[[project.authors]]
-name = "fgvieira"
-email = ""
+
+authors = [
+  {name = "Filipe G. Vieira"},
+]
+maintainers = [
+  {name = "Filipe G. Vieira"},
+]
+description = "A greedy Snakemake scheduler plugin."
+readme = "README.md"
+license = "MIT"
+keywords = ["snakemake", "plugin", "scheduler", "greedy"]
 
 [build-system]
 build-backend = "hatchling.build"
